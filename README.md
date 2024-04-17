@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1nxiety1
 - 👀 I’m interested in gainging more experience and knowledge of web developement
-- 🌱 I’m currently learning how to use jacvvascript to write mods for minecraft bedrock edition
+- 🌱 I’m currently learning how to use javascript to write mods for minecraft bedrock edition
 - 📫 How to reach me brjohns1914@gmail.com
 - 😄 Pronouns: he/him
 
